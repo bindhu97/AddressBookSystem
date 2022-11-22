@@ -30,6 +30,31 @@ class AddressBook
         }
 
     }
+
+	public void editContactname() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void editContactInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void viewContactInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void displayAllContacts() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void fillContactDetails() {
+		// TODO Auto-generated method stub
+		
+	}
 }
 
 public class CreateContacts {
