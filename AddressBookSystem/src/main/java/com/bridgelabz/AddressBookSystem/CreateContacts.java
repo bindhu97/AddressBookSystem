@@ -55,6 +55,11 @@ class AddressBook
 		// TODO Auto-generated method stub
 		
 	}
+
+	public void deleteContact() {
+		// TODO Auto-generated method stub
+		
+	}
 }
 
 public class CreateContacts {
